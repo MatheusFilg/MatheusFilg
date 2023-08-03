@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFilg&hide=prs,contribs&show_icons=true&theme=calm)](https://github.com/MatheusFilg/github-readme-stats)
 
-###🖥Tecnologias:
+### 🖥Tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

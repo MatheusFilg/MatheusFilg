@@ -1,6 +1,10 @@
-### Oi eu sou Matheus Filgueiras, estudante de programação e atualmente focando em front-end 👋
+### Matheus Filgueiras
+
+<h1>Front-end Developer</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFilg&hide=prs,contribs&show_icons=true&theme=calm)](https://github.com/MatheusFilg/github-readme-stats)
+
+###🖥Tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,6 +18,8 @@
 </div>
 
 ##
+
+### Contatos:
 
 <div> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>

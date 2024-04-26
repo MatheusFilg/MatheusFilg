@@ -37,9 +37,7 @@ Estou em busca de uma oportunidade como programador para mostrar todo o meu valo
 
 Meu 100 dias de código:
 
-<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=Maguinnata">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=Maguinnata" width="420" height="195" alt="Progresso 100 dias de codigo">
- </a>
+
  <a href="https://matheus-filg.notion.site/matheus-filg/100DiasDeCodigo-823e03666d654c3aa48634a49c434189">
   <img src="https://github.com/MatheusFilg/MatheusFilg/assets/112526643/2b763fc7-e108-4445-8ce9-6ea1c2fcd425" width="420" height="195" alt="Registro do 100 dias de código">
  </a>

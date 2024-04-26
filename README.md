@@ -17,7 +17,8 @@ Atualmente cursando o 3º período do bacharelado em Ciência da Computação pe
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img align="center" alt="Matheus-Nextjs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
   <img align="center" alt="Matheus-Tailwindcss" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />
-  <img align="center" alt="Matheus-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" />  
+  <img align="center" alt="Matheus-Nodejs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
+  <img align="center" alt="Matheus-Nodejs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" /> 
 </div>
 
 <br>

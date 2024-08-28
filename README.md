@@ -3,7 +3,7 @@
 
 ## 👦 Sobre:
 
-Atualmente cursando o 3º período do bacharelado em Ciência da Computação pela IBMR, tenho prática em programação há 1 ano, tendo praticado as seguintes linguagens e frameworks: JavaScript, HTML, CSS, React, Typescript, Nextjs e Node. Acredito que me encontrei na programação e estou focado em estudar para aprender cada vez mais.
+Atualmente cursando o 4º período do bacharelado em Ciência da Computação pela IBMR, atuando no meio profissional há alguns meses, tendo domínio nas seguintes linguagens e frameworks: JavaScript, HTML, CSS, React, Vue, Typescript, Nextjs e Node. Acredito que me encontrei na programação e estou focado em estudar e praticar para aprender cada vez mais.
 
 <br>
 
@@ -18,7 +18,7 @@ Atualmente cursando o 3º período do bacharelado em Ciência da Computação pe
   <img align="center" alt="Matheus-Nextjs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
   <img align="center" alt="Matheus-Tailwindcss" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />
   <img align="center" alt="Matheus-Nodejs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
-  <img align="center" alt="Matheus-Nodejs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" /> 
+  <img align="center" alt="Matheus-Vue" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" /> 
 </div>
 
 <br>
@@ -32,7 +32,7 @@ Atualmente cursando o 3º período do bacharelado em Ciência da Computação pe
 
 ## 📊 Objetivos:
 
-Estou em busca de uma oportunidade como programador para mostrar todo o meu valor e conhecimento como profissional. Além disso, também acredito que é importante a produção de conteúdo destinado a ensinar comunidades.
+Estou em busca de aumentar meu conhecimento sobre tecnologia e conhecer novas pessoas que tem esse mesmo interesse, por isso acredito que é importante a participação e a produção de conteúdo destinado a comunidades.
 
 
 Meu 100 dias de código:

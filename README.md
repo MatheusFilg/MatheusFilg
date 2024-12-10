@@ -3,7 +3,7 @@
 
 ## 👦 Sobre:
 
-Atualmente cursando o 4º período do bacharelado em Ciência da Computação pela IBMR, atuando no meio profissional há alguns meses, tendo domínio nas seguintes linguagens e frameworks: JavaScript, HTML, CSS, React, Vue, Typescript, Nextjs e Node. Acredito que me encontrei na programação e estou focado em estudar e praticar para aprender cada vez mais.
+Atualmente cursando o 5º período do bacharelado em Ciência da Computação pela IBMR, atuando no meio profissional há alguns meses, tendo domínio nas seguintes linguagens e frameworks: JavaScript, HTML, CSS, React, Vue, Typescript, Nextjs e Node. Acredito que me encontrei na programação e estou focado em estudar e praticar para aprender cada vez mais.
 
 <br>
 
@@ -36,7 +36,6 @@ Estou em busca de aumentar meu conhecimento sobre tecnologia e conhecer novas pe
 
 
 Meu 100 dias de código:
-
 
  <a href="https://matheus-filg.notion.site/matheus-filg/100DiasDeCodigo-823e03666d654c3aa48634a49c434189">
   <img src="https://github.com/MatheusFilg/MatheusFilg/assets/112526643/2b763fc7-e108-4445-8ce9-6ea1c2fcd425" width="420" height="195" alt="Registro do 100 dias de código">

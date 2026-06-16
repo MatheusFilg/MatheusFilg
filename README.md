@@ -1,6 +1,6 @@
 # Matheus Filgueiras
 
- Desenvolvedor Fullstack há quase 2 anos, focando no desenvolvimento de aplicações web. Além disso, sou estudante de Ciência da Computação (7º período) na IBMR e entusiasta do ecossistema JavaScript/TypeScript.
+ Desenvolvedor Fullstack há 2 anos, focando no desenvolvimento de aplicações web. Além disso, sou estudante de Ciência da Computação (8º período) na IBMR e entusiasta do ecossistema JavaScript/TypeScript.
  
 ## 👦 Sobre Mim:
   - 👨‍💻 Atuo profissionalmente com React, Typescript, Next.js, Node.js, Bun e etc.
